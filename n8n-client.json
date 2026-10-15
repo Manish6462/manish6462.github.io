@@ -1,0 +1,10 @@
+{
+  "client_id": "https://Manish6462.github.io/n8n-client.json",
+  "client_name": "My n8n Upwork workflow",
+  "redirect_uris": [
+    "https://n8n.srv1711190.hstgr.cloud/rest/oauth2-credential/callback"
+  ],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
